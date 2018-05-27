@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 27 17:49:35 2018
-
-@author: DELL
-"""
-
 import pandas as pd
 import tensorflow as tf
 
