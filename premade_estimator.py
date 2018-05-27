@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 27 17:47:21 2018
-
-@author: DELL
-"""
-
-"""An Example of a DNNClassifier for the Iris dataset."""
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
